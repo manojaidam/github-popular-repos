@@ -1,0 +1,20 @@
+.languages-list-item-container {
+  list-style-type: none;
+  margin-right: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.active-list-item {
+  border: 2px solid #0284c7;
+  color: #0284c7;
+  height: 23px;
+  width: 100%;
+  border-radius: 10px;
+}
+.button-item {
+  background-color: transparent;
+  border: none;
+}
